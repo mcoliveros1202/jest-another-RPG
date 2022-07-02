@@ -23,5 +23,9 @@
   "homepage": "https://github.com/mcoliveros1202/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^28.1.2"
+  },
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "install": "^0.13.0"
   }
 }
